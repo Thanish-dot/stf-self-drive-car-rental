@@ -1,3 +1,4 @@
+"id="good1"
 {
   "name": "stf-self-drive-car-rental",
   "private": true,
@@ -16,5 +17,8 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.7.0",
     "vite": "^5.1.0"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
